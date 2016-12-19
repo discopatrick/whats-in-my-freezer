@@ -1,0 +1,22 @@
+{
+  "name": "whats-in-my-freezer",
+  "version": "0.1.0",
+  "description": "Alexa skill for keeping track of your freezer contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/discopatrick/whats-in-my-freezer.git"
+  },
+  "author": "Keni Barwick and Patrick Heneghan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/discopatrick/whats-in-my-freezer/issues"
+  },
+  "homepage": "https://github.com/discopatrick/whats-in-my-freezer",
+  "dependencies": {
+    "alexa-app": "^2.3.4"
+  }
+}
